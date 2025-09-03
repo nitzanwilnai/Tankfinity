@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Texture Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f8404cf2ab037419f8ca2286d2ffe3c1, type: 3}
+    - {fileID: 102900000, guid: 29aecc82d3bfb4508888f20d067965fb, type: 3}
+    - {fileID: 102900000, guid: 17e8a757b541245c3957ea914e451b3a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a1179d5069220479e8fe50d47005b03a: 21300000
+    - 4e15f5c0a95744b009764d80de82e41d: 21300000
+    - c5f99931492034ac68402e0223d8e58f: 21300000
+    - 61766c62b67e741fb9623e72397b6be7: 21300000
+    - 60f1eed2fb71b47c196a2c4f5543d803: 21300000
+    - 74ad640303a224f8280fe860f36998b4: 21300000
+    - 2c23caa3d486d45bdbcf3608d245fb64: 21300000
+    - 90ac0fa47b5dc4b9b909074ee4dbaf35: 21300000
+    - d3b05825474a54492b8299d2db047f01: 21300000
+    - 9876cf56f91db4d2b93512ba6078a0d3: 21300000
+    - eea951b660f054bac987403e6ae78d60: 21300000
+    - f6ece11761f8e4b9384f5abf1df42d60: 21300000
+    - 2b59eb676de8443cbaa9203ff91d8147: 21300000
+    - d0c624b7985334b3f986d0ea9c25a363: 21300000
+    - 159644d908ee64b1cbc74aa63f44b2f4: 21300000
+    - 829c1ad9beb574d48b638dcff5c2adb1: 21300000
+    - 5041ae0a6fa4342d39b65b07faeb9171: 21300000
+    - 2250543afe77a4998a12023bca193942: 21300000
+    - f9a7445a320f14424bf88c63f83830be: 21300000
+    - 3157757a1f42b4ffa82cded834d526a1: 21300000
+    - 1cafef2b51e3b48eda3fbec8bf79f4ef: 21300000
+    - 6155fd6bb57e545c1890f298c4afd79c: 21300000
+    - dc1ce9dbed49b4bee9d50e924ddd4409: 21300000
+    - 1a12836dd38a949d5b0999cf395f6016: 21300000
+    - e149d67e1e6814a2f981f7f12b64af80: 21300000
+    - 635f328ebc54b4ac0a9c159576340a18: 21300000
+    - a4f2d5deedfe943e3a222b6b34a8a1ea: 21300000
+    - f185e60f090fe4055a1b30796841ad40: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a1179d5069220479e8fe50d47005b03a, type: 3}
+  - {fileID: 21300000, guid: 4e15f5c0a95744b009764d80de82e41d, type: 3}
+  - {fileID: 21300000, guid: c5f99931492034ac68402e0223d8e58f, type: 3}
+  - {fileID: 21300000, guid: 61766c62b67e741fb9623e72397b6be7, type: 3}
+  - {fileID: 21300000, guid: 60f1eed2fb71b47c196a2c4f5543d803, type: 3}
+  - {fileID: 21300000, guid: 74ad640303a224f8280fe860f36998b4, type: 3}
+  - {fileID: 21300000, guid: 2c23caa3d486d45bdbcf3608d245fb64, type: 3}
+  - {fileID: 21300000, guid: 90ac0fa47b5dc4b9b909074ee4dbaf35, type: 3}
+  - {fileID: 21300000, guid: d3b05825474a54492b8299d2db047f01, type: 3}
+  - {fileID: 21300000, guid: 9876cf56f91db4d2b93512ba6078a0d3, type: 3}
+  - {fileID: 21300000, guid: eea951b660f054bac987403e6ae78d60, type: 3}
+  - {fileID: 21300000, guid: f6ece11761f8e4b9384f5abf1df42d60, type: 3}
+  - {fileID: 21300000, guid: 2b59eb676de8443cbaa9203ff91d8147, type: 3}
+  - {fileID: 21300000, guid: d0c624b7985334b3f986d0ea9c25a363, type: 3}
+  - {fileID: 21300000, guid: 159644d908ee64b1cbc74aa63f44b2f4, type: 3}
+  - {fileID: 21300000, guid: 829c1ad9beb574d48b638dcff5c2adb1, type: 3}
+  - {fileID: 21300000, guid: 5041ae0a6fa4342d39b65b07faeb9171, type: 3}
+  - {fileID: 21300000, guid: 2250543afe77a4998a12023bca193942, type: 3}
+  - {fileID: 21300000, guid: f9a7445a320f14424bf88c63f83830be, type: 3}
+  - {fileID: 21300000, guid: 3157757a1f42b4ffa82cded834d526a1, type: 3}
+  - {fileID: 21300000, guid: 1cafef2b51e3b48eda3fbec8bf79f4ef, type: 3}
+  - {fileID: 21300000, guid: 6155fd6bb57e545c1890f298c4afd79c, type: 3}
+  - {fileID: 21300000, guid: dc1ce9dbed49b4bee9d50e924ddd4409, type: 3}
+  - {fileID: 21300000, guid: 1a12836dd38a949d5b0999cf395f6016, type: 3}
+  - {fileID: 21300000, guid: e149d67e1e6814a2f981f7f12b64af80, type: 3}
+  - {fileID: 21300000, guid: 635f328ebc54b4ac0a9c159576340a18, type: 3}
+  - {fileID: 21300000, guid: a4f2d5deedfe943e3a222b6b34a8a1ea, type: 3}
+  - {fileID: 21300000, guid: f185e60f090fe4055a1b30796841ad40, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - debris 2
+  - castle16
+  - castle4
+  - debris 1
+  - castle14
+  - castle destroyed
+  - castle13
+  - castle19
+  - debris 3
+  - castle2
+  - castle7
+  - debris 4
+  - castle9
+  - castle5
+  - arrow
+  - castle1
+  - castle12
+  - castle8
+  - castle18
+  - castle10
+  - button
+  - castle11
+  - white 16x16
+  - castle17
+  - castle3
+  - circle_outline3
+  - castle6
+  - castle15
+  m_RenderDataMap: {}
+  m_Tag: Texture Atlas
+  m_IsVariant: 0
